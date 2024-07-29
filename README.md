@@ -1,1 +1,1 @@
-# CodeSoft-Calculator
+# CodSoft-Calculator
